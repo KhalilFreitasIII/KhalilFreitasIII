@@ -12,8 +12,18 @@
   Connect with me:
 </h3>
 <p align="left">
-<a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khalil-freitas-40190a278/" alt="LinkedIn"/></a>
+<a 
+  href="https://www.linkedin.com/in/khalil-freitas-40190a278/"
+  target="blank"
+  >
+  <img 
+    align="center"
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+    alt="https://www.linkedin.com/in/khalil-freitas-40190a278/" 
+    height="30"
+    width="40" />
+</a>
+</p>
 
   
 </p>
