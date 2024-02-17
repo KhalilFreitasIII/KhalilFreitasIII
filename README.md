@@ -1,27 +1,27 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<h1 align="center">
+  Hi 👋, I'm Khalil de Freitas
+</h1>
+<h3 align="center">
+  A junior dev from Brazil
+</h3>
 
-<p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
-</p>
+- 👨‍💻 I’m currently study on **IFB - Computer Science**
+- 📫 My e-mails: **khalilfreitas66983@gmail.com** || **khalil.pimentel@estudante.ifb.edu.br**
 
+<h3 align="left">
+  Connect with me:
+</h3>
 <p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
-</p>
-
-<p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
-</p>
-
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p>
-
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
+<a href="#" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khalil-freitas-40190a278/" alt="LinkedIn"/></a>
-  <a href="#" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
+
+  
 </p>
+
+<h3 align="left">
+  Languages and Tools:
+</h3>
+
+</p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=khalilfreitasiii&show_icons=true&locale=en&layout=compact" alt="khalilfreitasiii" /></p>
